@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Vanda</h1>
-<h3 align="center">Currently, I am on an exciting journey of learning software development. I believe that continuous learning is key to personal growth, and I am genuinely passionate about honing my skills and expanding my knowledge in this area.</h3>
+<h3 align="center">I am from Hungary, learning software development.</h3>
 
 - 🌱 I’m currently learning **C#, ASP.NET**
 
