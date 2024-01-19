@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, My name is Vanda</h1>
 <h3 align="center">I am from Hungary, learning software development.👩‍💻</h3>
 
-- 🌱 I’m currently learning **C#, ASP.NET**
+- 🌱 I’m currently learning **React.js, ASP.NET**
 
 - 📫 How to reach me **msvandaszabo@gmail.com**
 
