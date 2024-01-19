@@ -11,7 +11,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vanda.szabo" height="30" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/vanda-reszketo-szabo/" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="vanda.szabo" height="30" width="40"/>
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="vanda.szabo" height="30" width="auto"/>
   </a>
 </p>
 
